@@ -1,5 +1,4 @@
 # repInterval.py
-
 from microbit import *
 
 while True:
